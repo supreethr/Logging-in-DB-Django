@@ -42,19 +42,19 @@ And install requirements
 $ pip install -r requirements.txt
 ```
 
-##Running Server
+Running Server
 ```
 $python manage.py createsuperuser
 $Username: upwards
 $password: qwe@12345
 ```
 
-##Working API
+Working API
 ```
 http://localhost:8000/api/exception_views
 ```
 
-##CRUD Operation in Django Admin
+CRUD Operation in Django Admin
 Login with above credentials
 
 ## Built With
