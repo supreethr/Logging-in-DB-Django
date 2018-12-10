@@ -1,2 +1,2 @@
-# Logging-in-DB-Django-
+# Logging-in-DB-Django
 Errors are Handled by Middleware and Logging in DB Django
