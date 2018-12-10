@@ -1,13 +1,15 @@
 # Logging-in-DB-Django
 Errors are Handled by Middleware and Logging in DB Django
 
-###Middleware
+Code Features:
+
+Middleware
 ExceptionMiddleware: Gets the exception and converts into 200 and sends the json of error message
 
-###Database Routing
+Database Routing
 LogRouter: Database routes log database and normal database
 
-###Database Logging Handler
+Database Logging Handler
 DBHandler: Handler helps in saving Log information in specific model
 
 ## Getting Started
